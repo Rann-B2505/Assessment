@@ -1,0 +1,12 @@
+util\BasedAPIClient.class
+ui\pages\Checkout_OverviewPage.class
+ui\pages\Footer.class
+api\clients.class
+ui\pages\Checkout_CompletePage.class
+ui\pages\Header.class
+util\StringsProvider.class
+ui\pages\CartPage.class
+ui\pages\Checkout_PersonalInformationPage.class
+ui\pages\LoginPage.class
+ui\pages\ProductPage.class
+ui\pages\MenuPage.class

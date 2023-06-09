@@ -1,0 +1,5 @@
+DataProvider\DataProvider_Excel.class
+Tests\api\verifyHttpStatusCodeTest.class
+Tests\api\verifyPresenceOfCurrencyTest.class
+Tests\ui\SauceDemoPurchaseTest.class
+Tests\api\countOfCurrenciesTest.class
